@@ -68,4 +68,4 @@ http://localhost:5173
 
 ---
 
-本项目可作为系统学习 React Hooks 的实战训练营。如果需要我扩展项目练习（如 Zustand、Router、SSR 等），欢迎继续交流！
+本项目可作为系统学习 React Hooks 的实战训练营。
